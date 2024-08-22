@@ -1,3 +1,3 @@
 Hi, I’m Max Lovick. 
-- I'm an accounting and computer science student at Creighton University
+- Building an bookkeeping/tax software
 - Interested in RL and genetic algorithms
